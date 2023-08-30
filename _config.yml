@@ -104,11 +104,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Amirul Azim"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
-  email            :
+  bio              : "Hi, welcome to Amirul Azim's website"
+  location         : "Kuala Lumpur, Malaysia"
+  email            : "amirulazimiv@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
