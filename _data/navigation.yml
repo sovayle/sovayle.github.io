@@ -10,6 +10,13 @@ main:
     url: /cv/
 
 docs:
-  - title: CodeCombat 2023
-  - title: ByuCTF 2023
-  - title: angstromCTF 2023
+  - title: ctfbilani
+    children:
+      - title: "power"
+        url: /ctfs/ctfbilani/power
+      - title: "yes"
+        url: /ctfs/ctfbilani/yes
+  - title: ctfhaxk
+    children:
+      - title: "yuhs"
+        url: /ctfs/ctfbilani/yuhs
