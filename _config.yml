@@ -105,15 +105,21 @@ analytics:
 
 # Site Author
 author:
-  name             : "test"
+  name             : "Amirul Azim"
   avatar           : "/assets/images/azim_formal.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Hi, welcome to Amirul Azim's website"
-  location         : "Kuala Lumpur, Malaysia"
-  email            : "amirulazimiv@gmail.com"
+  bio              : "Hi I'm Azim. I aspire to join more CTF competitions, earn valuable cybersecurity certificates and contribute more to open source!"
+  location         : "Kuala Lumpur,Malaysia"
+  #email            : "amirulazimiv@gmail.com"
   links:
-    - label: "Email"
+    - label: "amirulazimiv@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
-      # url: "mailto:your.name@email.com"
+      url: "mailto:amirulazimiv@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/amirul-azim/"      
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/sovayle"
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
@@ -123,9 +129,6 @@ author:
     - label: "Facebook"
       icon: "fab fa-fw fa-facebook-square"
       # url: "https://facebook.com/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
@@ -141,7 +144,7 @@ footer:
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
+      url: "https://github.com/sovayle"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
       # url:
