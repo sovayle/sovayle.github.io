@@ -1,10 +1,10 @@
 ---
 layout: single
-title: "csad"
+title: "TryHackMe"
 sitemap: false
-permalink: /csad/
+permalink: /tryhackme/
 classes: wide
 author_profile: TRUE
 ---
 
-wtf
+try hack me
