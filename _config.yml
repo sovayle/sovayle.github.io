@@ -213,15 +213,44 @@ defaults:
       type: posts
     values:
       layout: single
+      #classes: wide
       author_profile: true
       read_time: true
-      comments: # true
-      share: true
+      words_per_minute: 120
+      #comments: # true
+      share: false
       related: true
+      show_date: true
 
+  # _blogs
+  - scope:
+      path: ""
+      type: blogs
+    values:
+      layout: single
+      classes: wide
+      author_profile: true
+      read_time: true
+      words_per_minute: 120
+      show_date: true
+      related: false  
+      
   # _docs
   - scope:
       path: ""
     values:
       sidebar:
         nav: "docs"
+
+  # _pages
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: category
+      author_profile: true
+
+collections:
+  blogs:
+    output: true
+    permalink: /:collection/:path/
