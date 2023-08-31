@@ -1,12 +1,15 @@
-# main links
+# main links of top right of page and author pic column
 main:
-  - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+  - title: "About"
+    url: /about/
+  - title: "Blogs"
+    url: /blogs/
+  - title: "CTF"
+    url: /ctfs/
+  - title: "CV"
+    url: /cv/
+
+docs:
+  - title: CodeCombat 2023
+  - title: ByuCTF 2023
+  - title: angstromCTF 2023
