@@ -24,7 +24,7 @@ name                     : "Amirul Azim"
 description              : "Welcome to Amirul Azim's website."
 url                      : "https://sovayle.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
-repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
+repository               : "https://github.com/sovayle" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
@@ -106,7 +106,7 @@ analytics:
 # Site Author
 author:
   name             : "test"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/azim_formal.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi, welcome to Amirul Azim's website"
   location         : "Kuala Lumpur, Malaysia"
   email            : "amirulazimiv@gmail.com"
