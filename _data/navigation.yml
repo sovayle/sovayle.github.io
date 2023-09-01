@@ -6,6 +6,8 @@ main:
     url: /blogs/
   - title: "CTF"
     url: /ctfs/
+  - title: "Portfolio"
+    url: /portfolio/    
   - title: "CV"
     url: /cv/
 

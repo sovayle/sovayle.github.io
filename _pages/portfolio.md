@@ -1,8 +1,11 @@
 ---
-title: Portfolio
-layout: collection
+layout: single
+title: "Portfolio"
+sitemap: false
 permalink: /portfolio/
-collection: portfolio
-entries_layout: grid
 classes: wide
+author_profile: TRUE
 ---
+
+
+testing

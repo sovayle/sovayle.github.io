@@ -11,8 +11,7 @@ CTF numba 1
 
 ## Introduction
 
-Hi, I am `Azim`. I play CTFS. Nice to meet you
-
+Hi, I am `Azim`. I play CTFS. Nice to meet you. Check out my [Portfolio](/portfolio) !
 
 
 
