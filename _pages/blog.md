@@ -1,12 +1,13 @@
 ---
-layout: collection
-permalink: /blogs/
+layout: categories
 title: "Blogs"
-collection: blogs
+permalink: /blogs/
+entries_layout: grid
 ---
 
 
-okaty test
+
+Blog page
 
 
 

@@ -222,10 +222,10 @@ defaults:
       related: true
       show_date: true
 
-  # _blogs
+  # _ctfs
   - scope:
       path: ""
-      type: blogs
+      type: ctfs
     values:
       layout: single
       classes: wide
@@ -251,6 +251,6 @@ defaults:
       author_profile: true
 
 collections:
-  blogs:
+  ctfs:
     output: true
     permalink: /:collection/:path/

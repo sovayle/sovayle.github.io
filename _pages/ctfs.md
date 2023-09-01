@@ -1,9 +1,9 @@
 ---
-layout: categories
+layout: collection
 title: "CTFs"
 permalink: /ctfs/
 entries_layout: grid
-author_profile: TRUE
+collection: ctfs
 ---
 
-okay test
+ctfs page

@@ -1,4 +1,0 @@
----
-title: "tryna blog"
----
-dew
