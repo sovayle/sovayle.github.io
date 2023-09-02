@@ -52,7 +52,7 @@ author:
   name             : "Amirul Azim"
   avatar           : "/assets/images/azim_formal.jpeg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Hi I'm Azim. I aspire to join more CTF competitions, earn valuable cybersecurity certificates and contribute more to open source!"
-  location         : "Kuala Lumpur,Malaysia"
+  location         : "Kuala Lumpur, Malaysia"
   #email            : "amirulazimiv@gmail.com"
   links:
     - label: "amirulazimiv@gmail.com"
@@ -218,7 +218,7 @@ defaults:
       read_time: true
       words_per_minute: 120
       #comments: # true
-      share: false
+      #share: false
       related: true
       show_date: true
 
@@ -233,7 +233,7 @@ defaults:
       read_time: true
       words_per_minute: 120
       show_date: true
-      related: false  
+      #related: true  
       
   # _docs
   - scope:
@@ -254,3 +254,7 @@ collections:
   ctfs:
     output: true
     permalink: /:collection/:path/
+
+#search: true
+#lunr:
+#  search_within_pages: true
