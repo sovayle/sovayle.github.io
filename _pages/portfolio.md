@@ -24,13 +24,14 @@ This is where I will put my achievements.
   <tr>
     <td>
       <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">
-        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png" alt="Image" width="400" />
+        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png" alt="Web Fundamentals"/>
       </a>
-      <figcaption>Caption for your image.</figcaption>
+      <figcaption>TryHackMe Web Fundamentals</figcaption>
     </td>
-    <td>Your text here</td>
+    <td>I have succesfully completed TryHackMe Web FundamentalsI have succesfully completed TryHackMe Web Fundamentals</td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td>
@@ -42,6 +43,7 @@ This is where I will put my achievements.
     <td>Your text here</td>
   </tr>
 </table>
+
 <table>
   <tr>
     <td>
