@@ -1,6 +1,6 @@
 ---
 title: "First blog"
-categories: forensics
+categories: blogs
 permalink: /blogs/first-blog
 header:
   teaser: /assets/images/strawberry.jpg

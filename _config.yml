@@ -188,9 +188,9 @@ whitelist:
 category_archive:
   type: jekyll-archives #liquid
   path: /blogs/
-tag_archive:
-  type: liquid
-  path: /tags/
+#tag_archive:
+#  type: liquid
+#  path: /tags/
 # https://github.com/jekyll/jekyll-archives
 jekyll-archives:
   enabled:
@@ -253,7 +253,11 @@ defaults:
 collections:
   ctfs:
     output: true
-    permalink: /:collection/:path/
+    # permalink: /:collection/:path/
+  blogs:
+    output: true
+  about:
+    output: true
 
 #search: true
 #lunr:
