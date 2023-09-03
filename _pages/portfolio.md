@@ -24,34 +24,46 @@ This is where I will put my achievements.
   <tr>
     <td>
       <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">
-        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png" alt="Web Fundamentals"/>
+        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png" alt="Web Fundamentals" width="400"/>
       </a>
       <figcaption>TryHackMe Web Fundamentals</figcaption>
     </td>
-    <td>I have succesfully completed TryHackMe Web FundamentalsI have succesfully completed TryHackMe Web Fundamentals</td>
+    <td>I have succesfully completed TryHackMe Web Fundamentals</td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td>
-      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">
-        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png" alt="Image" width="400" />
+      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EHJWVUE5Z6.png">
+        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EHJWVUE5Z6.png" alt="Complete Beginner" width="400" />
       </a>
-      <figcaption>Caption for your image.</figcaption>
+      <figcaption>TryHackMe Complete Beginner</figcaption>
     </td>
-    <td>Your text here</td>
+    <td>I have succesfully completed TryHackMe Complete Beginner</td>
   </tr>
 </table>
 
 <table>
   <tr>
     <td>
-      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">
-        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png" alt="Image" width="400" />
+      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S7GEL3OOUA.png">
+        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S7GEL3OOUA.png" alt="Pre Security" width="400" />
       </a>
-      <figcaption>Caption for your image.</figcaption>
+      <figcaption>TryHackMe Pre Security</figcaption>
     </td>
-    <td>Your text here</td>
+    <td>I have succesfully completed TryHackMe Pre Security</td>
+  </tr>
+</table>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0NBL7M4NM9.png">
+        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0NBL7M4NM9.png" alt="Intro to Cyber Security" width="400" />
+      </a>
+      <figcaption>TryHackMe Intro to Cyber Security</figcaption>
+    </td>
+    <td>I have succesfully completed TryHackMe Intro to Cyber Security</td>
   </tr>
 </table>
