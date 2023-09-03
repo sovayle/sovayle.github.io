@@ -152,7 +152,7 @@ kramdown:
   enable_coderay: false
 
 # Outputting
-permalink: /:categories/:title/
+permalink: /:collection/:categories/:title/
 paginate: 5 # amount of posts to show
 paginate_path: /page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
@@ -186,21 +186,21 @@ whitelist:
 #  - <base_path>/categories/my-awesome-category/index.html ~> path: /categories/
 #  - <base_path>/my-awesome-category/index.html ~> path: /
 category_archive:
-  type: liquid
-  path: /categories/
+  type: jekyll-archives #liquid
+  path: /blogs/
 tag_archive:
   type: liquid
   path: /tags/
 # https://github.com/jekyll/jekyll-archives
-# jekyll-archives:
-#   enabled:
-#     - categories
+jekyll-archives:
+  enabled:
+    - categories
 #     - tags
-#   layouts:
-#     category: archive-taxonomy
+  layouts:
+    category: archive-taxonomy
 #     tag: archive-taxonomy
-#   permalinks:
-#     category: /categories/:name/
+  permalinks:
+    category: /categories/ #:name/
 #     tag: /tags/:name/
 
 
