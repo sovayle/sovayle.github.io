@@ -103,10 +103,10 @@ toc_sticky: true
 <table>
   <tr>
     <td>
-      <a href="https://www.credly.com/earner/earned/badge/c6f9e8eb-7332-4e07-90b3-c1250a919a33">
+      <a href="https://www.credly.com/badges/c6f9e8eb-7332-4e07-90b3-c1250a919a33">
         <img src="/assets/c/CCNA-Enterprise-Networking.png" alt="CCNA: Enterprise Networking, Security, and Automation" width="400"/>
       </a>
-      <figcaption><a href="https://www.credly.com/earner/earned/badge/c6f9e8eb-7332-4e07-90b3-c1250a919a33">CCNA: Enterprise Networking, Security, and Automation</a></figcaption>
+      <figcaption><a href="https://www.credly.com/badges/c6f9e8eb-7332-4e07-90b3-c1250a919a33">CCNA: Enterprise Networking, Security, and Automation</a></figcaption>
       <p style="text-align: justify;">I took the CCNA: Enterprise Networking, Security, and Automation.</p>
     </td>
     <td>27/1/2023</td>
@@ -117,10 +117,10 @@ toc_sticky: true
 <table>
   <tr>
     <td>
-      <a href="https://www.credly.com/earner/earned/badge/5056b3fa-50df-40f1-a121-e3b1e3905a7c">
+      <a href="https://www.credly.com/badges/5056b3fa-50df-40f1-a121-e3b1e3905a7c">
         <img src="/assets/c/CCNA-Intro-To-Networks.png" alt="CCNA: Introduction to Networks" width="400"/>
       </a>
-      <figcaption><a href="https://www.credly.com/earner/earned/badge/5056b3fa-50df-40f1-a121-e3b1e3905a7c">CCNA: Introduction to Networks</a></figcaption>
+      <figcaption><a href="https://www.credly.com/badges/5056b3fa-50df-40f1-a121-e3b1e3905a7c">CCNA: Introduction to Networks</a></figcaption>
       <p style="text-align: justify;">I took the CCNA: Introduction to Networks.</p>
     </td>
     <td>12/1/2022</td>
@@ -164,10 +164,10 @@ toc_sticky: true
       <a href="/assets/c/The_Amazing_Cyberhunt_AmirulAzim.jpg">
         <img src="/assets/c/The_Amazing_Cyberhunt_AmirulAzim.jpg" alt="The amazing Cyberhunt" width="400"/>
       </a>
-      <figcaption><a href="/assets/c/The_Amazing_Cyberhunt_AmirulAzim.jpg">the amazing cyberhunt</a></figcaption>
-      <p style="text-align: justify;">I participated the amazing cyberhunt.</p>
+      <figcaption><a href="/assets/c/The_Amazing_Cyberhunt_AmirulAzim.jpg">The Amazing Cyberhunt</a></figcaption>
+      <p style="text-align: justify;">I participated in UTAR's The Amazing Cyberhunt CTF Competition.</p>
     </td>
-    <td>18/5/2023</td>
+    <td>22/7/2023</td>
   </tr>
 </table>
 
@@ -178,10 +178,10 @@ toc_sticky: true
       <a href="/assets/c/Amirul_Azim_CTF_SIG_Certificate.png">
         <img src="/assets/c/Amirul_Azim_CTF_SIG_Certificate.png" alt="sig23" width="400"/>
       </a>
-      <figcaption><a href="/assets/c/Amirul_Azim_CTF_SIG_Certificate.png">sig23</a></figcaption>
-      <p style="text-align: justify;">I won sig23.</p>
+      <figcaption><a href="/assets/c/Amirul_Azim_CTF_SIG_Certificate.png">SIG23 CTF Winner Certificate</a></figcaption>
+      <p style="text-align: justify;">My team and I won sig23 CTF Competition.</p>
     </td>
-    <td>18/5/2023</td>
+    <td>28/5/2023</td>
   </tr>
 </table>
 
