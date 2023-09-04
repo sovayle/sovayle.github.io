@@ -2,6 +2,13 @@
 permalink: /test/
 ---
 
+Text with a [text anchor](#myid1).
+{: #myid1}
+
+Text with a [text anchor](#myid2) and a title. 
+{:title="The blockquote title"}
+{: #myid2}
+
 ```py
 import numpy as np
 a=np.arange(5)
