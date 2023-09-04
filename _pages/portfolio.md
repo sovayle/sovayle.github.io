@@ -157,7 +157,7 @@ toc_sticky: true
 </table>
 
 ## 📌 CTFs
-### IIUM Sig23
+### The Amazing Cyberhunt
 <table>
   <tr>
     <td>
