@@ -3,9 +3,12 @@ layout: single
 title: "Portfolio"
 sitemap: false
 permalink: /portfolio/
-classes: wide
+#classes: wide
 author_profile: TRUE
 toc: true
+toc_label: "Table of Contents"
+toc_icon: stream # tasks #"torii-gate"
+toc_sticky: true
 ---
 <style>
   table {
@@ -19,7 +22,10 @@ toc: true
   }
 </style>
 
-Certifications and achievements. 
+# Certifications and achievements.
+
+## 📌 TryhackMe
+### TryHackMe Web Fundamentals
 
 <table>
   <tr>
@@ -27,48 +33,170 @@ Certifications and achievements.
       <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">
         <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png" alt="Web Fundamentals" width="400"/>
       </a>
-      <figcaption>TryHackMe Web Fundamentals Learning Path</figcaption>
+      <figcaption><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">TryHackMe Web Fundamentals Learning Path</a></figcaption>
       <p style="text-align: justify;">Through this 32-hour learning path, I understood web fundamentals, understood major vulnerabilities, learned industry-used tools and applied web application assessments.</p>
     </td>
     <td>23/8/2023</td>
   </tr>
 </table>
 
+
+### TryHackMe Complete Beginner
 <table>
   <tr>
     <td>
       <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EHJWVUE5Z6.png">
         <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EHJWVUE5Z6.png" alt="Complete Beginner" width="400"/>
       </a>
-      <figcaption>TryHackMe Complete Beginner Learning Path</figcaption>
+      <figcaption><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-EHJWVUE5Z6.png">TryHackMe Complete Beginner Learning Path</a></figcaption>
       <p style="text-align: justify;">This 64-hour learning path taught me web application security, network security, basic Linux and applied scripting.</p>
     </td>
     <td>2/8/2023</td>
   </tr>
 </table>
 
+### TryHackMe Pre Security
 <table>
   <tr>
     <td>
       <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S7GEL3OOUA.png">
         <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S7GEL3OOUA.png" alt="Pre Security" width="400"/>
       </a>
-      <figcaption>Pre Security Learning Path</figcaption>
+      <figcaption><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-S7GEL3OOUA.png">TryHackMe Pre Security Learning Path</a></figcaption>
       <p style="text-align: justify;">The 40-hour Pre Security learning path taught be cyber security basics, networking basics and weaknesses, the web and common attacks as well as learning Linux operating system.</p>
     </td>
     <td>30/3/2023</td>
   </tr>
 </table>
 
+### TryHackMe Intro to Cyber Security
 <table>
   <tr>
     <td>
       <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0NBL7M4NM9.png">
         <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0NBL7M4NM9.png" alt="Introduction to Cyber Security" width="400"/>
       </a>
-      <figcaption>Introduction to Cyber Security Learning Path</figcaption>
+      <figcaption><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-0NBL7M4NM9.png">TryHackMe Introduction to Cyber Security Learning Path</a></figcaption>
       <p style="text-align: justify;">This 24-hour learning path introduced me on the different careers in cyber, basic hacking on vulnerable machines, basic defence practices and explored security topic in the industry.</p>
     </td>
     <td>23/3/2023</td>
   </tr>
 </table>
+
+## 📌 Microsoft
+### Microsoft SC-900
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/4e5d3c2c-313c-43db-bb77-fd168acb0c96">
+        <img src="/assets/c/security-compliance-and-identity-fundamentals-600x600.png" alt="Microsoft Certified: Security, Compliance, and Identity Fundamentals" width="400"/>
+      </a>
+      <figcaption><a href="https://www.credly.com/badges/4e5d3c2c-313c-43db-bb77-fd168acb0c96">Microsoft SC-900 Microsoft Certified: Security, Compliance, and Identity Fundamentals</a></figcaption>
+      <p style="text-align: justify;">I took the SC-900 exam which tested my knowledge on Microsoft Active Directory security knowledge.</p>
+    </td>
+    <td>24/4/2023</td>
+  </tr>
+</table>
+
+## 📌 CCNA
+### CCNA: Enterprise Networking, Security, and Automation
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/earner/earned/badge/c6f9e8eb-7332-4e07-90b3-c1250a919a33">
+        <img src="/assets/c/CCNA-Enterprise-Networking.png" alt="CCNA: Enterprise Networking, Security, and Automation" width="400"/>
+      </a>
+      <figcaption><a href="https://www.credly.com/earner/earned/badge/c6f9e8eb-7332-4e07-90b3-c1250a919a33">CCNA: Enterprise Networking, Security, and Automation</a></figcaption>
+      <p style="text-align: justify;">I took the CCNA: Enterprise Networking, Security, and Automation.</p>
+    </td>
+    <td>27/1/2023</td>
+  </tr>
+</table>
+
+### CCNA: Introduction to Networks
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/earner/earned/badge/5056b3fa-50df-40f1-a121-e3b1e3905a7c">
+        <img src="/assets/c/CCNA-Intro-To-Networks.png" alt="CCNA: Introduction to Networks" width="400"/>
+      </a>
+      <figcaption><a href="https://www.credly.com/earner/earned/badge/5056b3fa-50df-40f1-a121-e3b1e3905a7c">CCNA: Introduction to Networks</a></figcaption>
+      <p style="text-align: justify;">I took the CCNA: Introduction to Networks.</p>
+    </td>
+    <td>12/1/2022</td>
+  </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
