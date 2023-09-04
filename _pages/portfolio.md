@@ -127,11 +127,63 @@ toc_sticky: true
   </tr>
 </table>
 
+## 📌 Internet Society
+### Encryption Certificate
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credential.net/2b383ca1-3721-4124-8a5a-29d50560ac20#gs.4pstv6">
+        <img src="/assets/c/encryption_internetsociety.png" alt="Encryption Certificate" width="400"/>
+      </a>
+      <figcaption><a href="https://www.credential.net/2b383ca1-3721-4124-8a5a-29d50560ac20#gs.4pstv6">Encryption Certificate</a></figcaption>
+      <p style="text-align: justify;">I took the Encryption Certificate.</p>
+    </td>
+    <td>18/5/2023</td>
+  </tr>
+</table>
 
+### Introduction to Network Operations – Malaysia
+<table>
+  <tr>
+    <td>
+      <a href="https://drive.google.com/file/d/18W7sma3liRQpQQF1GT3JCBP47EkuRIt6/view">
+        <img src="/assets/c/certificate-Intro-To-Network-Operations.png" alt="Introduction to Network Operations – Malaysia" width="400"/>
+      </a>
+      <figcaption><a href="https://drive.google.com/file/d/18W7sma3liRQpQQF1GT3JCBP47EkuRIt6/view">Introduction to Network Operations – Malaysia</a></figcaption>
+      <p style="text-align: justify;">I took the Introduction to Network Operations – Malaysia.</p>
+    </td>
+    <td>24/2/2023</td>
+  </tr>
+</table>
 
+## 📌 CTFs
+### IIUM Sig23
+<table>
+  <tr>
+    <td>
+      <a href="/assets/c/The_Amazing_Cyberhunt_AmirulAzim.jpg">
+        <img src="/assets/c/The_Amazing_Cyberhunt_AmirulAzim.jpg" alt="The amazing Cyberhunt" width="400"/>
+      </a>
+      <figcaption><a href="/assets/c/The_Amazing_Cyberhunt_AmirulAzim.jpg">the amazing cyberhunt</a></figcaption>
+      <p style="text-align: justify;">I participated the amazing cyberhunt.</p>
+    </td>
+    <td>18/5/2023</td>
+  </tr>
+</table>
 
-
-
+### IIUM Sig23
+<table>
+  <tr>
+    <td>
+      <a href="/assets/c/Amirul_Azim_CTF_SIG_Certificate.png">
+        <img src="/assets/c/Amirul_Azim_CTF_SIG_Certificate.png" alt="sig23" width="400"/>
+      </a>
+      <figcaption><a href="/assets/c/Amirul_Azim_CTF_SIG_Certificate.png">sig23</a></figcaption>
+      <p style="text-align: justify;">I won sig23.</p>
+    </td>
+    <td>18/5/2023</td>
+  </tr>
+</table>
 
 
 
