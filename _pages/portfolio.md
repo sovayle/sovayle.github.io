@@ -5,6 +5,7 @@ sitemap: false
 permalink: /portfolio/
 classes: wide
 author_profile: TRUE
+toc: true
 ---
 <style>
   table {
