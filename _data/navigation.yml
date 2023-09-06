@@ -12,13 +12,13 @@ main:
     url: /cv/
 
 docs:
-  - title: ctfbilani
+  - title: blogs
     children:
-      - title: "power"
-        url: /ctfs/ctfbilani/power
+      - title: "Basic Cybersecurity Knowledge"
+        url: /blogs/basic-cybersecurity-knowledge
       - title: "yes"
         url: /ctfs/ctfbilani/yes
-  - title: ctfhaxk
+  - title: ctf
     children:
       - title: "yuhs"
         url: /ctfs/ctfbilani/yuhs

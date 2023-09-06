@@ -262,3 +262,5 @@ collections:
 #search: true
 #lunr:
 #  search_within_pages: true
+#atom_feed:
+#  hide: true
