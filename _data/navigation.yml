@@ -18,8 +18,8 @@ docs:
     children:
       - title: "Basic Cybersecurity Knowledge"
         url: /blogs/basic-cybersecurity-knowledge
-      - title: "yes"
-        url: /ctfs/ctfbilani/yes
+      - title: "My Virtual Machines"
+        url: /blogs/my-virtual-machines
   - title: ctf
     children:
       - title: "yuhs"
