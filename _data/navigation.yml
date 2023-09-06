@@ -10,6 +10,8 @@ main:
     url: /portfolio/    
   - title: "CV"
     url: /cv/
+  - title: "Contact"
+    url: /contact/
 
 docs:
   - title: blogs

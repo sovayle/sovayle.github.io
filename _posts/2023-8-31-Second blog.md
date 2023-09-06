@@ -1,6 +1,6 @@
 ---
 title: "second blog"
-categories: blogs
+categories: tools
 permalink: /blogs/second-blog
 ---
 
