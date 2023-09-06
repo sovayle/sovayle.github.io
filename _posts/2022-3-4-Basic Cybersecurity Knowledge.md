@@ -13,7 +13,7 @@ header:
 
 # CIA Triad: Confidentiality Integrity Availability
 
-Confidentiality: Keeping an organisation's data private & only authorized users are able to access it
+Confidentiality: Keeping an organisation's data private & only authorized users are able to access it {style: justified}
 
 Integrity: The data can be trusted and it has not been altered
 
@@ -30,11 +30,17 @@ When putting a URL in the browser, it checks the browser cache for any informati
 # 7 Layers of The OSI Model
 
 Application: Human-computer-Interaction layer, what we see and what we click on a browser for example.
+
 Presentation: Ensures data is in usable format (encryption)
+
 Session: Maintains connections and responsible for controlling ports and sessions.
+
 Transport: Transmission protocols: TCP/UDP
+
 Network: The IP layer, the ARP table, routing table (router)
+
 Data Link: The data transporting information accross the hardware. (switch)
+
 Physical: The hardware, the wiring. (cable)
 
 # XSS
