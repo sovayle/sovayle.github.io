@@ -2,7 +2,10 @@
 title: "Third blog"
 categories: blogs
 permalink: /blogs/third-blog
-
+header:
+  teaser: /assets/images/white.jpg
 ---
 
-Third blog.
+Tok
+
+right?
