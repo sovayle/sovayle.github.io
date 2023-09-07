@@ -8,6 +8,8 @@ toc_icon: stream # tasks #"torii-gate"
 toc_sticky: true
 ---
 
+linux commands
+
 - on linux mint (ubuntu based. which is debian based)
 - on kali gnome install:
 - sudo apt update

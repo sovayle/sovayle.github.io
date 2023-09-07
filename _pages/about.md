@@ -15,12 +15,13 @@ Hi I am Azim, the local tech guy for friends and family. I am up to date with th
 
 ### Check out my [Portfolio](/portfolio) !
 
+### Check out my [Resume](/cv) !
 
+I am an active TryHackMe player with 200+ day streak and in the Top 8% globally ranked players.
 
+https://tryhackme.com/p/AmirulAzim
 
-
-
-
+I am proficient in Mandarin as I went to SRJK(C) Khai Chee, Kuala Lumpur for my secondary school and actively learn through watching youtube videos that enhance my mandarin as well as learn on DuoLingo.
 
 
 

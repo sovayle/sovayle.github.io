@@ -5,5 +5,3 @@ permalink: /ctfs/
 entries_layout: grid
 collection: ctfs
 ---
-
-ctfs page
