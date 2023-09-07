@@ -7,8 +7,6 @@ entries_layout: grid
 
 
 
-Blog page
-
 
 
 
