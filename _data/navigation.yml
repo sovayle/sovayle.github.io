@@ -22,5 +22,5 @@ docs:
         url: /blogs/my-virtual-machines
   - title: ctf
     children:
-      - title: "sig23"
+      - title: "SIG23"
         url: /ctfs/sig23
