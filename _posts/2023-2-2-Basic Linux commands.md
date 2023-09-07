@@ -1,6 +1,6 @@
 ---
 title: "Basic Linux Commands"
-categories: blogs
+categories: tools
 permalink: /blogs/basic-linux-commands
 #toc: true
 toc_label: "Table of Contents"

@@ -1,6 +1,6 @@
 ---
 title: "Basic Cybersecurity Knowledge"
-categories: blogs
+categories: knowledge
 permalink: /blogs/basic-cybersecurity-knowledge
 toc: true
 toc_label: "Table of Contents"

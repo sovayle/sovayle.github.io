@@ -1,6 +1,6 @@
 ---
 title: "Common Ports and Protocols"
-categories: blogs
+categories: knowledge
 permalink: /blogs/common-ports-and-protocols
 #header:
 #  teaser: /assets/images/white.jpg

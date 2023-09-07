@@ -1,6 +1,6 @@
 ---
 title: "Malaysia Internet Speeds"
-categories: blogs
+categories: knowledge
 permalink: /blogs/malaysia-internet-speeds
 #header:
 #  teaser: /assets/images/white.jpg

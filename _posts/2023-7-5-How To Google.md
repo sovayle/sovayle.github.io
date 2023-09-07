@@ -1,6 +1,6 @@
 ---
 title: "How to Google"
-categories: blogs
+categories: knowledge
 permalink: /blogs/how-to-google
 #toc: true
 toc_label: "Table of Contents"

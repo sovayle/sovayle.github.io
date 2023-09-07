@@ -1,6 +1,6 @@
 ---
 title: "My Virtual Machines"
-categories: blogs
+categories: tools
 permalink: /blogs/my-virtual-machines
 #header:
 #  teaser: /assets/images/white.jpg
