@@ -42,7 +42,7 @@ print(a+a)
 <img src="https://tryhackme-badges.s3.amazonaws.com/azim.png" alt="TryHackMe"></a>
 </div>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=00F72B&background=000000&center=true&vCenter=true&width=1000&height=100&lines=JesusCries" alt="azim" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=00F72B&background=000000&center=true&vCenter=true&width=1000&height=100&lines=AmirulAzim" alt="azim" />
 
 <h3 align='center'> root@github:~$ whoami </h3>
 
@@ -71,9 +71,9 @@ print(a+a)
 [![Email](./icons/mail.png "Email")](mailto:amirulazimiv@gmail.com)
 
 ### 📈 Statistics
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=WesleyWong420&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=WesleyWong420&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=WesleyWong420&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=azim&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=azim&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azim&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
 </div>
 
 
