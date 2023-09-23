@@ -22,5 +22,5 @@ docs:
         url: /blogs/my-virtual-machines
   - title: ctf
     children:
-      - title: "SIG23"
-        url: /ctfs/sig23
+      - title: "picoCTF"
+        url: /ctfs/picoctf
