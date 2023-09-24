@@ -38,8 +38,8 @@ print(a+a)
 {: .notice--success}
 
 <div align='center'>
-<a title="TryHackMe Profile" href="https://tryhackme.com/p/azim">
-<img src="https://tryhackme-badges.s3.amazonaws.com/azim.png" alt="TryHackMe"></a>
+<a title="TryHackMe Profile" href="https://tryhackme.com/p/AmirulAzim">
+<img src="https://tryhackme-badges.s3.amazonaws.com/AmirulAzim.png" alt="TryHackMe"></a>
 </div>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=50&pause=1000&color=00F72B&background=000000&center=true&vCenter=true&width=1000&height=100&lines=AmirulAzim" alt="azim" />
@@ -50,11 +50,11 @@ print(a+a)
 
 <div align='center'>
 <h4><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></h4>
-<a title="TryHackMe Profile" href="https://tryhackme.com/p/amirulazim">
-<img src="https://tryhackme-badges.s3.amazonaws.com/amirulazim.png" alt="TryHackMe"></a>
+<a title="TryHackMe Profile" href="https://tryhackme.com/p/AmirulAzim">
+<img src="https://tryhackme-badges.s3.amazonaws.com/AmirulAzim.png" alt="TryHackMe"></a>
 <h4><img src="https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white"></h4>
-<a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/amirulazim">
-<img src="http://www.hackthebox.com/badge/image/azim" alt="Hack The Box Profile"></a>
+<a title="Hack The Box Profile" href="https://app.hackthebox.com/profile/AmirulAzim">
+<img src="http://www.hackthebox.com/badge/image/AmirulAzim" alt="Hack The Box Profile"></a>
 
 ### 🏅 Certifications and Achievements
 <a href="https://www.credential.net/df2366a8-5f68-4ce7-8470-80372ba8f484">![CRTP](./icons/crtp.png "CRTP")</a>
@@ -71,9 +71,9 @@ print(a+a)
 [![Email](./icons/mail.png "Email")](mailto:amirulazimiv@gmail.com)
 
 ### 📈 Statistics
-<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=azim&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=azim&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=azim&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
+<img align="center" width="49%" src="https://github-readme-stats.vercel.app/api?username=sovayle&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sovayle&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=sovayle&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
 </div>
 
 
