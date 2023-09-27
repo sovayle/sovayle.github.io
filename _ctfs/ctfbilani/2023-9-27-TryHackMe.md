@@ -85,4 +85,34 @@ flag: FLAG{RESOURCES-ARE-POPULAR-FOR-MALWARE}
 
 
 
+### Reversing ELF
+
+Task1 : Run the file
+
+Flag: flag{not_that_kind_of_elf}
+
+
+Task2: 
+
+What is the super secret password ?
+
+solution: use ghidra and check the parameters for any strings.
+
+super_secret_password
+
+Flag: flag{if_i_submit_this_flag_then_i_will_get_points}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
