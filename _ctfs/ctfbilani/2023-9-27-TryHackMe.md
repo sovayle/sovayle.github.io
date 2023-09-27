@@ -156,8 +156,20 @@ Enter your input:
 OfdlDSA|3tXb32~X3tX@sX`4tXtz
 Good game
 ```
+gdb-gef:
+memory address string values for the rax and rcx registers gives the necessary input to get the output message “Good game”.
+
+```
+gef➤  x/s 0x7fffffffe120
+0x7fffffffe120: "cow"
+gef➤  x/s 0x7fffffffe140
+0x7fffffffe140: "OfdlDSA|3tXb32~X3tX@sX`4tXtz"
+```
 
 flag: OfdlDSA|3tXb32~X3tX@sX`4tXtz
+
+#### Task6
+
 
 
 
