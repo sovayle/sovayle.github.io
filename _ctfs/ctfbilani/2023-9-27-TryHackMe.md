@@ -87,12 +87,12 @@ flag: FLAG{RESOURCES-ARE-POPULAR-FOR-MALWARE}
 
 ### Reversing ELF
 
-Task1 : Run the file
+#### Task1 : Run the file
 
 Flag: flag{not_that_kind_of_elf}
 
 
-Task2: 
+#### Task2: 
 
 What is the super secret password ?
 
@@ -103,7 +103,7 @@ super_secret_password
 Flag: flag{if_i_submit_this_flag_then_i_will_get_points}
 
 
-Task3: 
+#### Task3: 
 
 Found clue on function "FUN_080484f4" a string compare.
 flag in base64:
@@ -114,7 +114,7 @@ decoded will get the flag.
 
 Flag: f0r_y0ur_5ec0nd_le55on_unbase64_4ll_7h3_7h1ng5
 
-Task4:
+#### Task4:
 
 ltrace:
 
@@ -139,9 +139,25 @@ gef➤  x/s 0x7fffffffe130
 0x7fffffffe130: "my_m0r3_secur3_pwd"
 ```
 
+frida:
 
+frida -l hook.js ./crackme4 asd
 
+#### Task5
 
+```
+┌──(root㉿kali)-[/home/kali/Downloads/TryHackMe/ReversingELF]
+└─# ltrace ./crackme5
+strncmp("1", "OfdlDSA|3tXb32~X3tX@sX`4tXtz", 28) = -30
+
+┌──(root㉿kali)-[/home/kali/Downloads/TryHackMe/ReversingELF]
+└─# ./crackme5       
+Enter your input:
+OfdlDSA|3tXb32~X3tX@sX`4tXtz
+Good game
+```
+
+flag: OfdlDSA|3tXb32~X3tX@sX`4tXtz
 
 
 
