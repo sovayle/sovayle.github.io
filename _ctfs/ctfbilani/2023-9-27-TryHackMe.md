@@ -103,11 +103,41 @@ super_secret_password
 Flag: flag{if_i_submit_this_flag_then_i_will_get_points}
 
 
+Task3: 
 
+Found clue on function "FUN_080484f4" a string compare.
+flag in base64:
 
+ZjByX3kwdXJfNWVjMG5kX2xlNTVvbl91bmJhc2U2NF80bGxfN2gzXzdoMW5nNQ==
 
+decoded will get the flag.
 
+Flag: f0r_y0ur_5ec0nd_le55on_unbase64_4ll_7h3_7h1ng5
 
+Task4:
+
+ltrace:
+
+```
+┌──(root㉿kali)-[/home/kali/Downloads/TryHackMe/ReversingELF]
+└─# ltrace ./crackme4 tes
+__libc_start_main(0x400716, 2, 0x7ffcde2f24e8, 0x400760 <unfinished ...>
+strcmp("my_m0r3_secur3_pwd", "tes")            = -7
+printf("password "%s" not OK\n", "tes"password "tes" not OK
+)        = 22
++++ exited (status 0) +++
+```
+
+gdb-gef: 
+
+```
+gef➤ info functions
+gef➤ b *0x0000000000400520
+gef➤ run test
+gef➤  info registers (general purpose registers rax and rdx have memory address values)
+gef➤  x/s 0x7fffffffe130
+0x7fffffffe130: "my_m0r3_secur3_pwd"
+```
 
 
 

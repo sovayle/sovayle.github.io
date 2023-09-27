@@ -24,3 +24,5 @@ docs:
     children:
       - title: "picoCTF"
         url: /ctfs/picoctf
+      - title: "TryHackMe"
+        url: /ctfs/tryhackme
