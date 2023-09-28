@@ -212,7 +212,7 @@ flag: flag{much_reversing_very_ida_wow}
 
 #### Task8
 
-solution: run ghidra and see the main function, local 14 needs to be equal to 0x7a69, converting this hex to dec, we will get 31337.. entering this number when we run the program with ./crackme7 will give us the flag
+solution: run ghidra and see the main function, iVar2 needs to be equal to -0x35010ff3, converting this hex to dec, we will get -889262067.. entering this number when we run the program with ./crackme8 will give us the flag
 
 ```┌──(root㉿kali)-[/home/kali/Downloads/TryHackMe/ReversingELF]
 └─# ./crackme8 -889262067
