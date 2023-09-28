@@ -220,9 +220,17 @@ Access granted.
 flag{at_least_this_cafe_wont_leak_your_credit_card_numbers}
 ```
 
+### REloaded
 
+#### Task1
 
+solution:
 
+strings: strings Level.exe | grep -E '.{10,100}'
+
+this filters the flag length from 10 to 100 characters
+
+we can see 'L3v3lZ340_is_D02e' as one of the strings
 
 
 

@@ -1,5 +1,7 @@
 Reverse Engineering 101
 
+> book : Practical Malware Analysis book by Sikorski & Honig
+
 # low-level hanging fruit
 
 XOR = ^
@@ -13,7 +15,7 @@ trace system calls
 ### ltrace 
 library call tracer
 runs the specified command until it exists
-
+b
 ltrace ./bbbbloat
 
 objdump -d bbbbloat
