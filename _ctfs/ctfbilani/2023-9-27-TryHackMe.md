@@ -131,7 +131,7 @@ printf("password "%s" not OK\n", "tes"password "tes" not OK
 gdb-gef: 
 
 ```
-gef➤ info functions
+gef➤ info functionsx
 gef➤ b *0x0000000000400520
 gef➤ run test
 gef➤  info registers (general purpose registers rax and rdx have memory address values)
@@ -169,6 +169,72 @@ gef➤  x/s 0x7fffffffe140
 flag: OfdlDSA|3tXb32~X3tX@sX`4tXtz
 
 #### Task6
+
+solution: read the source codes
+
+undefined8 my_secure_test(char *param_1)
+
+```
+  if ((*param_1 == '\0') || (*param_1 != '1')) {
+    uVar1 = 0xffffffff;
+  }
+  else if ((param_1[1] == '\0') || (param_1[1] != '3')) {
+    uVar1 = 0xffffffff;
+  }
+  else if ((param_1[2] == '\0') || (param_1[2] != '3')) {
+    uVar1 = 0xffffffff;
+  }
+  else if ((param_1[3] == '\0') || (param_1[3] != '7')) {
+    uVar1 = 0xffffffff;
+  }
+  else if ((param_1[4] == '\0') || (param_1[4] != '_')) {
+    uVar1 = 0xffffffff;
+  }
+  else if ((param_1[5] == '\0') || (param_1[5] != 'p')) {
+    uVar1 = 0xffffffff;
+  }
+  else if ((param_1[6] == '\0') || (param_1[6] != 'w')) {
+    uVar1 = 0xffffffff;
+  }
+  else if ((param_1[7] == '\0') || (param_1[7] != 'd')) {
+    uVar1 = 0xffffffff;
+  }
+```
+
+flag: 1337_pwd
+
+#### Task7
+
+solution: run ghidra and see the main function, local 14 needs to be equal to 0x7a69, converting this hex to dec, we will get 31337.. entering this number when we run the program with ./crackme7 will give us the flag
+
+flag: flag{much_reversing_very_ida_wow}
+
+
+#### Task8
+
+solution: run ghidra and see the main function, local 14 needs to be equal to 0x7a69, converting this hex to dec, we will get 31337.. entering this number when we run the program with ./crackme7 will give us the flag
+
+```┌──(root㉿kali)-[/home/kali/Downloads/TryHackMe/ReversingELF]
+└─# ./crackme8 -889262067
+Access granted.
+flag{at_least_this_cafe_wont_leak_your_credit_card_numbers}
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
