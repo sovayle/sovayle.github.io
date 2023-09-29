@@ -243,7 +243,7 @@ Flag: 1709
 
 solution: similarly to task 2, we find the string. In this case it is "Get Ready For L4 ;)". We can see in function 'FUN_00401410' line 17, that iVar1 uses comparison of local20 and param 1. Highlight line 18 and we can see a JNZ instruction. Let's patch the assembly by changing the JNZ to JZ. Highlight JNZ > right click > Patch Instruction. Now we have to save the file. we can use a python script to save the file. We add a new file at Window > Script Manager. Here, add a new script from [savePatch](https://github.com/schlafwandler/ghidra_SavePatch) and use savepatch to save a new .exe file. Lastly, run the exe file and we succesfully get our flag with any input.
 
-flag:L3_1s_20t_Th3_L131t
+flag: L3_1s_20t_Th3_L131t
 
 Which instruction did you modified?: jnz
 
@@ -253,11 +253,16 @@ solution: We first run the exe file and see a clue of string called "Rooted".By 
 
 open Level.exe in Immunity Debugger and set a breakpoint (F2) at the memory address 004014bc. Then, run (F9) the program and enter a wrong password and press F7 to continue to the next memory address. We continue until we see the flag in the registers.
 
+flag: THMctf-L4
+
+#### Task 5
+
+the program closes itself if we run it. So we load the binary into Ghidra to see anything we can use. No strings can be seen, but the program did print something on the screen when we ran it. This could be a print statement. so we search for any printf functions in the assembly under Search > Program Text. 
 
 
+we can see the one of the printf statements has a reference 'FUN_00401453:004014da(c)' and clicking on it will lead us to 004014da memory address. The primary function 'Fun_00401453' might have clues so we highlight it and check for references. This will lead us to memory address 00401532. we will try to find the flag by launching Immunity Debugger and setting a breakpoint(F2) here and continuing the program with (F7) and we will get the flag.
 
-
-
+flag: Alan Turing Was a Geniuse
 
 
 
