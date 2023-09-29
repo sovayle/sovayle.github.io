@@ -131,7 +131,7 @@ printf("password "%s" not OK\n", "tes"password "tes" not OK
 gdb-gef: 
 
 ```
-gef➤ info functionsx
+gef➤ info functions
 gef➤ b *0x0000000000400520
 gef➤ run test
 gef➤  info registers (general purpose registers rax and rdx have memory address values)
@@ -239,8 +239,19 @@ solution: run ghidra, look at strings.. "Thats your lucky number !!!" seems like
 
 Flag: 1709
 
+#### Task 3
 
+solution: similarly to task 2, we find the string. In this case it is "Get Ready For L4 ;)". We can see in function 'FUN_00401410' line 17, that iVar1 uses comparison of local20 and param 1. Highlight line 18 and we can see a JNZ instruction. Let's patch the assembly by changing the JNZ to JZ. Highlight JNZ > right click > Patch Instruction. Now we have to save the file. we can use a python script to save the file. We add a new file at Window > Script Manager. Here, add a new script from [savePatch](https://github.com/schlafwandler/ghidra_SavePatch) and use savepatch to save a new .exe file. Lastly, run the exe file and we succesfully get our flag with any input.
 
+flag:L3_1s_20t_Th3_L131t
+
+Which instruction did you modified?: jnz
+
+#### Task 4
+
+solution: We first run the exe file and see a clue of string called "Rooted".By trailing Rooted in Ghidra, we can see that it leads to function 'FUN_00401410'. By highlighting the function in source code, we find memory address 004014bc. We can use Immunity Debugger to reveal the real password when the program is excuting in memory.
+
+open Level.exe in Immunity Debugger and set a breakpoint (F2) at the memory address 004014bc. Then, run (F9) the program and enter a wrong password and press F7 to continue to the next memory address. We continue until we see the flag in the registers.
 
 
 
