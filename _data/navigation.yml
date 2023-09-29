@@ -26,3 +26,5 @@ docs:
         url: /ctfs/picoctf
       - title: "TryHackMe"
         url: /ctfs/tryhackme
+      - title: "HackTheBox"
+        url: /ctfs/hackthebox
