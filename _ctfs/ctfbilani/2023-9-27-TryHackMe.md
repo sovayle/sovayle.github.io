@@ -232,8 +232,12 @@ this filters the flag length from 10 to 100 characters
 
 we can see 'L3v3lZ340_is_D02e' as one of the strings
 
+#### Task 2
+
+solution: run ghidra, look at strings.. "Thats your lucky number !!!" seems like tha flag. Double click it to see the location in the assembly, highlight the string > right click > Show References to "Thats your lucky number !!!". This will take us to a function, and we can see in param1 there is a hex "0x6ad" in the decompiler, this hex converted to decimal gives us 1709. And running wine Level.exe 1709, the program will tell us that it is the lucky number.
 
 
+Flag: 1709
 
 
 
