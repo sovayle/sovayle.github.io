@@ -101,7 +101,14 @@ PECmd to read .pf files.
 
 ```
 
-
+RAX - Known as the accumulator register. Often used to store the return value of a function.
+RBX - Sometimes known as the base register, not to be confused with the base pointer. Sometimes used as a base pointer for memory access.
+RDX - Sometimes known as the data register.
+RCX - Sometimes known as the counter register. Used as a loop counter.
+RSI - Known as the source index. Used as the source pointer in string operations.
+RDI - Known as the destination index. Used as the destination pointer in string operations.
+RSP - The stack pointer. Holds the address of the top of the stack.
+RBP - The base pointer. Holds the address of the base (bottom) of the stack.
 
 
 
