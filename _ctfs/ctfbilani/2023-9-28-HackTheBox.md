@@ -67,11 +67,15 @@ readelf -s racecar
 
 ## SimpleEncryptor
 
+hexdump -C flag.enc
 
+xxd flag.enc
 
+solution: write a reverse code
 
+gcc scriptReverseEncryption.c -o test
 
-
+flag: HTB{vRy_s1MplE_F1LE3nCryp0r}
 
 
 
