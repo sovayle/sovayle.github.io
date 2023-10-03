@@ -53,3 +53,30 @@ uVar2 = 0
 Alternatively, we can run hexeditor on linux and type 'ctrl+w' to search for the flag. The keyword being 'HTB'
 
 flag: HTB{Itz_0nLy_UD2}
+
+## racecar
+
+```┌──(root㉿kali)-[/home/kali/Downloads/HackTheBox/racecar]
+└─# file racecar
+racecar: ELF 32-bit LSB pie executable, Intel 80386, version 1 (SYSV), dynamically linked, interpreter /lib/ld-linux.so.2, for GNU/Linux 3.2.0, BuildID[sha1]=c5631a370f7704c44312f6692e1da56c25c1863c, not stripped
+```
+
+not-stripped means that debugging info is still present.
+
+readelf -s racecar
+
+## SimpleEncryptor
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -98,6 +98,10 @@ What is the super secret password ?
 
 solution: use ghidra and check the parameters for any strings.
 
+OR
+
+ltrace ./crackme2 1234
+
 super_secret_password
 
 Flag: flag{if_i_submit_this_flag_then_i_will_get_points}
@@ -132,6 +136,9 @@ gdb-gef:
 
 ```
 gef➤ info functions
+gef➤ b *0x0000000000400520
+gef➤  info b
+gef➤  delete 1
 gef➤ b *0x0000000000400520
 gef➤ run test
 gef➤  info registers (general purpose registers rax and rdx have memory address values)
@@ -231,6 +238,10 @@ strings: strings Level.exe | grep -E '.{10,100}'
 this filters the flag length from 10 to 100 characters
 
 we can see 'L3v3lZ340_is_D02e' as one of the strings
+
+OR 
+
+Ghidra strings
 
 #### Task 2
 
