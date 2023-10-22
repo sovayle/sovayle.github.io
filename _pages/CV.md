@@ -18,7 +18,7 @@ author_profile: TRUE
 
 > ## Download PDF here
 
-[https://drive.google.com/file/d/1g-b-bBdP9GMga4xZN0R513AeIbi4JEO3/view?usp=sharing](https://drive.google.com/file/d/1vn4dQRy5diIb2KZfIZtz1loD4UnuPaX5/view)
+[https://drive.google.com/file/d/1aq0OIhe5N-TB_TtTiUqlyHi7X0sDobFq/view?usp=share_link](https://drive.google.com/file/d/1aq0OIhe5N-TB_TtTiUqlyHi7X0sDobFq/view?usp=share_link)
 
 
 
