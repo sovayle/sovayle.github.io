@@ -9,12 +9,12 @@ author_profile: TRUE
 
 > ## PDF 
 
-<embed src="https://sovayle.github.io/assets/resume/Amirul_Azim_Resume_October.pdf"/>
+<embed src="https://sovayle.github.io/assets/resume/Amirul_Azim_Resume.pdf"/>
 
 > ## PNG
 
-![resumeP1](/assets/resume/3.1.png)
-![resumeP2](/assets/resume/3.2.png)
+![resumeP1](/assets/resume/3.1_October.png)
+![resumeP2](/assets/resume/3.2_October.png)
 
 > ## Download PDF here
 
