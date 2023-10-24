@@ -13,8 +13,8 @@ author_profile: TRUE
 
 > ## PNG
 
-![resumeP1](/assets/resume/3.1_October.png)
-![resumeP2](/assets/resume/3.2_October.png)
+![resumeP1](/assets/resume/3.1_October_New.png)
+![resumeP2](/assets/resume/3.2_October_New.png)
 
 > ## Download PDF here
 
