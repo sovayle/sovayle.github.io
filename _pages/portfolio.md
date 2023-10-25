@@ -185,9 +185,19 @@ toc_sticky: true
   </tr>
 </table>
 
-
-
-
+### Petronas ctf
+<table>
+  <tr>
+    <td>
+      <a href="/assets/certs/PetronasFinalistcert.jpg">
+        <img src="/assets/certs/PetronasFinalistcert.jpg" alt="petronas" width="400"/>
+      </a>
+      <figcaption><a href="/assets/certs/PetronasFinalistcert.jpg">Petronas finalist Certificate</a></figcaption>
+      <p style="text-align: justify;">My team and I placed 8th in the Petronas CTF Competition.</p>
+    </td>
+    <td>10/10/2023</td>
+  </tr>
+</table>
 
 
 

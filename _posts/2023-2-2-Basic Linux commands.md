@@ -8,13 +8,11 @@ toc_icon: stream # tasks #"torii-gate"
 toc_sticky: true
 ---
 
-linux commands
+## linux commands
 
 - on linux mint (ubuntu based. which is debian based)
 - on kali gnome install:
 - sudo apt update
-- 
-
 - sudo apt install stacer -y
 - a thing
 - whoami man clear ctrl l ctrl alt l pwd ls
@@ -109,9 +107,9 @@ linux commands
 - tar filename
 - tar -xf filename
 - ```
-./start-tor-browser.desktop --register-app
+- ./start-tor-browser.desktop --register-app
 
-./start filename
+- ./start filename
 
 
 ## More Kali Commands
@@ -140,11 +138,12 @@ linux commands
 - [how to run smtg?] ./ [pimpmykali.sh]
 
 
-19/5 steganography
-binwalk
-exiftool- 
-exiftool <filename>
-cd exiftool
-./exiftool /home/ladder/cat2.jpg
-jsteg
-steghide
+## 19/5 steganography
+
+- binwalk
+- exiftool- 
+- exiftool <filename>
+- cd exiftool
+- ./exiftool /home/ladder/cat2.jpg
+- jsteg
+- steghide
