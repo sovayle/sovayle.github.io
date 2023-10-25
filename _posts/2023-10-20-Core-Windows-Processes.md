@@ -15,7 +15,7 @@ toc_sticky: true
 - Process Hacker
 - Process Explorer
 
-## ****Core Windows Processes****
+## **Core Windows Processes**
 
 ### System (run only in kernel-mode)
 
@@ -27,7 +27,7 @@ toc_sticky: true
 
 **Parent Process**: System Idle Process (0)
 
-What is unusual behaviour for this process?
+> What is unusual behaviour for this process?
 
 - A parent process (aside from System Idle Process (0))
 - Multiple instances of System. (Should only be one instance)
@@ -39,7 +39,6 @@ What is unusual behaviour for this process?
 - responsible for creating new sessions
 - first user-mode process started by the kernel
 - This subsystem includes win32k.sys (kernel mode), winsrv.dll (user mode), and csrss.exe (user mode).
-- 
 
 **Image Path**:  %SystemRoot%\System32\smss.exe
 
@@ -51,7 +50,7 @@ What is unusual behaviour for this process?
 
 **Start Time**:  Within seconds of boot time for the master instance
 
-What is unusual?
+> What is unusual?
 
 - A different parent process other than System (4)
 - The image path is different from C:\Windows\System32
@@ -59,7 +58,7 @@ What is unusual?
 - The running User is not the SYSTEM user
 - Unexpected registry entries for Subsystem
 
-## csrss.exe (Client Server Runtime Process)
+### csrss.exe (Client Server Runtime Process)
 
 - responsible for win32 console window & process thread creation and deletion
 - For each instance, csrsrv.dll, basesrv.dll, and winsrv.dll are loaded (along with others).
@@ -68,23 +67,21 @@ What is unusual?
 - smss.exe calls this process and self-terminates
 
 **Image Path**:  %SystemRoot%\System32\csrss.exe
-
 **Parent Process**:  Created by an instance of smss.exe
-
 **Number of Instances**:  Two or more
 
 **User Account**:  Local System
 
 **Start Time**:  Within seconds of boot time for the first two instances (for Session 0 and 1). Start times for additional instances occur as new sessions are created, although only Sessions 0 and 1 are often created.
 
-What is unusual?
+> What is unusual?
 
 - An actual parent process. (smss.exe calls this process and self-terminates)
 - Image file path other than C:\Windows\System32
 - Subtle misspellings to hide rogue processes masquerading as csrss.exe in plain sight
 - The user is not the SYSTEM user.
 
-## **wininit.exe**
+### **wininit.exe**
 
 - responsible for launchign services.exe (Service Control Manager), lsass.exe (Local Security Authority), and lsaiso.exe within Session 0
 
@@ -98,7 +95,7 @@ What is unusual?
 
 **Start Time**:  Within seconds of boot time
 
-What is unusual?
+> What is unusual?
 
 - An actual parent process. (smss.exe calls this process and self-terminates)
 - Image file path other than C:\Windows\System32
@@ -106,13 +103,12 @@ What is unusual?
 - Multiple running instances
 - Not running as SYSTEM
 
-## **Service Control Manager** (SCM) or **services.exe**
+### **Service Control Manager** (SCM) or **services.exe**
 
 - handle system services: loading, interacting and start/end services
 - maintains database queried using windows built in utility, sc.exe
 - stored in the registry, `HKLM\System\CurrentControlSet\Services`
 - is the parent of svchost.exe, spoolsv.exe, msmpeng.exe, and dllhost.exe
-- 
 
 **Image Path**:  %SystemRoot%\System32\services.exe
 
@@ -124,7 +120,7 @@ What is unusual?
 
 **Start Time**:  Within seconds of boot time
 
-What is unusual?
+> What is unusual?
 
 - A parent process other than wininit.exe
 - Image file path other than C:\Windows\System32
@@ -132,10 +128,9 @@ What is unusual?
 - Multiple running instances
 - Not running as SYSTEM
 
-## under services.exe, svchost.exe
+### under services.exe, svchost.exe
 
 - HKLM\SYSTEM\CurrentControlSet\Services\SERVICE NAME\Parameters
-- 
 
 **Image Path**: %SystemRoot%\System32\svchost.exe
 
@@ -149,7 +144,6 @@ What is unusual?
 
 - -k used for grouping similar services to share the same process
 - this process has been a target for malicious use
-- 
 
 **Image Path**: %SystemRoot%\System32\svchost.exe
 
@@ -161,14 +155,14 @@ What is unusual?
 
 **Start Time**: Typically within seconds of boot time. Other instances of svchost.exe can be started after boot.
 
-What is unusual?
+> What is unusual?
 
 - A parent process other than services.exe
 - Image file path other than C:\Windows\System32
 - Subtle misspellings to hide rogue processes in plain sight
 - The absence of the -k parameter
 
-## lsass.exe
+### lsass.exe
 
 - Local Security Authority Subsystem Service (**LSASS**)
 - responsible for enforcing the security policy on the system
@@ -176,7 +170,6 @@ What is unusual?
 - handles password changes
 - creates access tokens ( SAM security account manager, AD, netlogon)
 - writes windows security log
-- 
 
 **Image Path**:  %SystemRoot%\System32\lsass.exe
 
@@ -186,7 +179,7 @@ What is unusual?
 
 **User Account**:  Local System
 
-What is unusual?
+> What is unusual?
 
 - A parent process other than wininit.exe
 - Image file path other than C:\Windows\System32
@@ -194,12 +187,11 @@ What is unusual?
 - Multiple running instances
 - Not running as SYSTEM
 
-## Winlogon.exe
+### Winlogon.exe
 
 - Responsible for Secure Attention Sequence (SAS). it is ALT + CTRL + Del
 - responsible for loading the user profile. it loads NTUSER.DAT into HKCU, and userinit.exe loads the user’s shell
 - responsible for lockign the screen and screensaver
-- 
 
 **Image Path**:  %SystemRoot%\System32\winlogon.exe
 
@@ -211,7 +203,7 @@ What is unusual?
 
 **Start Time**:  Within seconds of boot time for the first instance (for Session 1). Additional instances occur as new sessions are created, typically through Remote Desktop or Fast User Switching logons.
 
-What is unusual?
+> What is unusual?
 
 - An actual parent process. (smss.exe calls this process and self-terminates)
 - Image file path other than C:\Windows\System32
@@ -219,7 +211,7 @@ What is unusual?
 - Not running as SYSTEM
 - Shell value in the registry other than explorer.exe
 
-## explorer.exe
+### explorer.exe
 
 - start menu and taskbar and folder and files
 - 
@@ -234,7 +226,7 @@ What is unusual?
 
 **Start Tim**e:  First instance when the first interactive user logon session begins
 
-What is unusual?
+> What is unusual?
 
 - An actual parent process. (userinit.exe calls this process and exits)
 - Image file path other than C:\Windows
