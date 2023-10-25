@@ -6,7 +6,7 @@ permalink: /blogs/common-ports-and-protocols
 #  teaser: /assets/images/white.jpg
 ---
 
-Port numbers
+# Port numbers
 
 **TCP**
 * FTP 21
@@ -38,12 +38,13 @@ Port numbers
 - 172.16 -172.31.255.255
 - 192 168 - 192.168.255.255
 
-table:
-A 0-127
-B 128-191
-C 192-223
-D 224-239
-E 240-255
+### Table:
+- A 0-127
+- B 128-191
+- C 192-223
+- D 224-239
+- E 240-255
+
 ## Media Access Control
 >ether 00:0c:29     :eb:29:ab
 >first 3 is identifiers
@@ -53,7 +54,3 @@ E 240-255
 >  USER DATAGRAM PROTOCOL
 >  SYN > SYN ACK > ACK
 >  port http:80 443:https
->  
-####
-#####
-######
