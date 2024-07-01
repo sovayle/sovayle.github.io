@@ -25,18 +25,33 @@ toc_sticky: true
 # Certifications and achievements.
 
 ## 📌 TryhackMe
-### TryHackMe Web Fundamentals
+### TryHackMe Cyber Defense
 
 <table>
   <tr>
     <td>
-      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">
-        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png" alt="Web Fundamentals" width="400"/>
+      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RA7VG4FJBI.png">
+        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RA7VG4FJBI.png" alt="Cyber Defense" width="400"/>
       </a>
-      <figcaption><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">TryHackMe Web Fundamentals Learning Path</a></figcaption>
-      <p style="text-align: justify;">Through this 32-hour learning path, I understood web fundamentals, understood major vulnerabilities, learned industry-used tools and applied web application assessments.</p>
+      <figcaption><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-RA7VG4FJBI.png">TryHackMe Cyber Defense Learning Path</a></figcaption>
+      <p style="text-align: justify;">Through this learning path, I used many different tools used by blue team in cybersecurity.</p>
     </td>
-    <td>23/8/2023</td>
+    <td>6/4/2024</td>
+  </tr>
+</table>
+
+### TryHackMe SOC Level 1
+
+<table>
+  <tr>
+    <td>
+      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VWF2BSRDQE.png">
+        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VWF2BSRDQE.png" alt="SOC Level 1" width="400"/>
+      </a>
+      <figcaption><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-VWF2BSRDQE.png">TryHackMe SOC Level 1 Learning Path</a></figcaption>
+      <p style="text-align: justify;">Through this learning path, I implemented hands-on SOC Lvl 1 tasks and familiarised myself with the shift environment tools.</p>
+    </td>
+    <td>3/4/2024</td>
   </tr>
 </table>
 
