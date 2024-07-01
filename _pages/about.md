@@ -7,7 +7,11 @@ classes: wide
 author_profile: TRUE
 ---
 
-Hi I am Azim, the local tech guy for friends and family. I am up to date with the latest tech news and currently focusing on learning offensive and defensive security on TryHackMe. I aspire to join more CTF competitions, earn valuable cybersecurity certificates and contribute more to open source! 
+Hi I am Azim, the local tech guy for friends and family. I am currently interning at Vigilant Asia as a SOC Analyst. Whenever I have spare time, I improve my knowledge on cybersecurity by reading blogs and news on the latest cyber threats. 
+
+Previously, I focused on hands-on learning of offensive and defensive security on TryHackMe and competing in CTF competitions. 
+
+I aspire to be a purple teamer in the cybersecurity industry, contribute more to open source and improve the security posture of existing and future cybersecurity systems and infrastructure. 
 
 <h4><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></h4>
 <a title="TryHackMe Profile" href="https://tryhackme.com/p/AmirulAzim">
@@ -16,9 +20,9 @@ Hi I am Azim, the local tech guy for friends and family. I am up to date with th
 
 ### Check out my [Portfolio](/portfolio) and [Resume](/cv) !
 
-I am an active TryHackMe player with 200+ day streak and in the Top 5% globally ranked players.
+I was an active TryHackMe player with over 200+ day active streak and currently in the Top 1% globally ranked players.
 
-I am proficient in Mandarin as I went to SRJK(C) Khai Chee, Kuala Lumpur for my secondary school and actively learn through watching youtube videos that enhance my mandarin as well as learn on DuoLingo.
+I am proficient in Mandarin as I went to SRJK(C) Khai Chee, Kuala Lumpur for my secondary school.
 
 ### 📈 Statistics
 <div>
@@ -27,8 +31,10 @@ I am proficient in Mandarin as I went to SRJK(C) Khai Chee, Kuala Lumpur for my 
 <img align="center" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=sovayle&theme=chartreuse-dark&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&locale=en&layout=compact" />
 </div>
 
+### 📈 Fun Hobby
 
-
+As a fun little hobby and to showcase my perseverance, Since 2021 till June 2024, I achieved 1000 day learning streak on the language-learning app, Duolingo.
+<img src="\assets\images\Duo1000.jpg" alt="Duolingo 1000 Days">
 
 
 
