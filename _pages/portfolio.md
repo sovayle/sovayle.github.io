@@ -40,6 +40,21 @@ toc_sticky: true
   </tr>
 </table>
 
+### TryHackMe Web Fundamentals
+
+<table>
+  <tr>
+    <td>
+      <a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">
+        <img src="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png" alt="Web Fundamentals" width="400"/>
+      </a>
+      <figcaption><a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-DAXDQMRJ3V.png">TryHackMe Web Fundamentals Learning Path</a></figcaption>
+      <p style="text-align: justify;">Through this 32-hour learning path, I understood web fundamentals, understood major vulnerabilities, learned industry-used tools and applied web application assessments.</p>
+    </td>
+    <td>23/8/2023</td>
+  </tr>
+</table>
+
 
 ### TryHackMe Complete Beginner
 <table>
