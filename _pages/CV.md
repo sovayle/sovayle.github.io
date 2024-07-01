@@ -13,12 +13,12 @@ author_profile: TRUE
 
 > ## PNG
 
-![resumeP1](/assets/resume/3.1_October_New.png)
-![resumeP2](/assets/resume/3.2_October_New.png)
+![resumeP1](/assets/resume/Freshie_4.1_July.png)
+![resumeP2](/assets/resume/Freshie_4.2_July.png)
 
 > ## Download PDF here
 
-[https://drive.google.com/file/d/1aq0OIhe5N-TB_TtTiUqlyHi7X0sDobFq/view?usp=share_link](https://drive.google.com/file/d/1aq0OIhe5N-TB_TtTiUqlyHi7X0sDobFq/view?usp=share_link)
+[https://drive.google.com/file/d/1ebhbFDZnZqg4ceCmZNYa4TzmZ5LSnHMj/view?usp=sharing](https://drive.google.com/file/d/1ebhbFDZnZqg4ceCmZNYa4TzmZ5LSnHMj/view?usp=sharing)
 
 
 
