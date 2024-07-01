@@ -30,10 +30,10 @@ toc_sticky: true
   <tr>
     <td>
       <a href="https://cyberclass.rocheston.com/certificates/serial/56b195defa947d831c3fb32489f071c4">
-        <img src="https://cyberclass.rocheston.com/certificates/serial/56b195defa947d831c3fb32489f071c4" alt="Level 2 Certificate" width="400"/>
+        <img src="/assets/c/Level2.png" alt="Level 2 Certificate" width="400"/>
       </a>
       <figcaption><a href="https://cyberclass.rocheston.com/certificates/serial/56b195defa947d831c3fb32489f071c4">Level 2 Certificate</a></figcaption>
-      <p style="text-align: justify;">I passed the Level 2 exam.</p>
+      <p>I passed the Level 2 exam.</p>
     </td>
     <td>16/1/2024</td>
   </tr>
@@ -44,7 +44,7 @@ toc_sticky: true
   <tr>
     <td>
       <a href="https://cyberclass.rocheston.com/certificates/serial/35943ebc26eb0d9299c8a51445198866">
-        <img src="https://cyberclass.rocheston.com/certificates/serial/35943ebc26eb0d9299c8a51445198866" alt="Level 1 Certificate" width="400"/>
+        <img src="/assets/c/Level1.png" alt="Level 1 Certificate" width="400"/>
       </a>
       <figcaption><a href="https://cyberclass.rocheston.com/certificates/serial/35943ebc26eb0d9299c8a51445198866">Level 1 Certificate</a></figcaption>
       <p style="text-align: justify;">I passed the Level 1 exam.</p>

@@ -7,11 +7,12 @@ classes: wide
 author_profile: TRUE
 ---
 
+Hi I am Azim, the local tech guy for friends and family. I am up to date with the latest tech news and currently focusing on learning offensive and defensive security on TryHackMe. I aspire to join more CTF competitions, earn valuable cybersecurity certificates and contribute more to open source! 
+
 <h4><img src="https://img.shields.io/badge/-TryHackMe-%23212C42?style=for-the-badge&logo=tryhackme&logoColor=white"></h4>
 <a title="TryHackMe Profile" href="https://tryhackme.com/p/AmirulAzim">
 <img src="https://tryhackme-badges.s3.amazonaws.com/AmirulAzim.png" alt="TryHackMe"></a>
-
-Hi I am Azim, the local tech guy for friends and family. I am up to date with the latest tech news and currently focusing on learning offensive and defensive security on TryHackMe. I aspire to join more CTF competitions, earn valuable cybersecurity certificates and contribute more to open source! 
+<img src="\assets\images\amirulazim tryhackme top1percent.png" alt="TryHackMe Profile Screenshot">
 
 ### Check out my [Portfolio](/portfolio) and [Resume](/cv) !
 
