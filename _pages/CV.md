@@ -9,7 +9,7 @@ author_profile: TRUE
 
 > ## PDF 
 
-<embed src="https://sovayle.github.io/assets/resume/Amirul_Azim_Resume.pdf"/>
+<embed src="https://sovayle.github.io/assets/resume/Amirul_Azim_Resume_July.pdf"/>
 
 > ## PNG
 
