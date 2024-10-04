@@ -20,6 +20,15 @@ docs:
         url: /blogs/basic-cybersecurity-knowledge
       - title: "My Virtual Machines"
         url: /blogs/my-virtual-machines
+      - title: "AWS Cloud Practitioner"
+        url: /blogs/aws-prep
+      - title: "Cybersecurity Analyst +"
+        url: /blogs/cysa-prep
+      - title: "My "
+        url: /blogs/m
+      - title: "My "
+        url: /blogs/m
+
   - title: ctf
     children:
       - title: "picoCTF"
