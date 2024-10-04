@@ -1,14 +1,14 @@
 ---
 title: "Cysa+ Prep"
 categories: knowledge
-permalink: /blogs/AWS-prep
+permalink: /blogs/aws-prep
 toc: true
 toc_label: "Table of Contents"
 toc_icon: stream # tasks #"torii-gate"
 toc_sticky: true
 ---
 
-> One of the earliest certifications I would like to obtain is Comptia Cybersecurity Analyst (Cysa+)
+> This is a resource on AWS Cloud Practitioner certification.
 
 # Resources
 - Josh Madakor's website for Comptia certification practice tests. <br>
