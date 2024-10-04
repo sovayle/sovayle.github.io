@@ -22,18 +22,15 @@ docs:
         url: /blogs/my-virtual-machines
       - title: "AWS Cloud Practitioner"
         url: /blogs/aws-prep
-      - title: "Cybersecurity Analyst +"
+      - title: "Cysa +"
         url: /blogs/cysa-prep
-      - title: "My "
-        url: /blogs/m
-      - title: "My "
-        url: /blogs/m
 
-  - title: ctf
+  - title: ctf writeups
     children:
-      - title: "picoCTF"
-        url: /ctfs/picoctf
-      - title: "TryHackMe"
-        url: /ctfs/tryhackme
       - title: "HackTheBox"
         url: /ctfs/hackthebox
+      - title: "TryHackMe"
+        url: /ctfs/tryhackme
+      - title: "picoCTF"
+        url: /ctfs/picoctf
+      

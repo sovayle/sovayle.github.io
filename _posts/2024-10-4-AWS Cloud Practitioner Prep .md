@@ -6,20 +6,22 @@ toc: true
 toc_label: "Table of Contents"
 toc_icon: stream # tasks #"torii-gate"
 toc_sticky: true
+#classes: wide
+author_profile: false
 ---
 
 > This is a resource on AWS Cloud Practitioner certification.
 
 AWS Training 26/9/2024
 
-# Module 1: IAM
+# 📁 Module 1: IAM
 
 - Cloud Terms/ Jargons
 - Management Console
 
 ## cloud computing
 
-traditional vs cloud computing: cloud is on-demand
+traditional vs cloud computing: cloud is on-demand traditional vs cloud computing: cloud is on-demand traditional vs cloud computing: cloud is on-demand
 
 traditional need upfront budget. (not on demand)
 
