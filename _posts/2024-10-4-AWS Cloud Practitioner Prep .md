@@ -22,5 +22,5 @@ Domain 1 – Security Operations
 <br>Domain 4 – Reporting and Communication
 
 Not only that, it also provides the correct answer and explanation given with citations! If any doubt comes to mind, simply google/osint into finding out the explanation on the questions and answers. 
-
-Hope to ace the exam.
+s
+Hope to ace the exam.s
