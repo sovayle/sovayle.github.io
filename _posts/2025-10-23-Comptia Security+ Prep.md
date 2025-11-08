@@ -1,7 +1,7 @@
 ---
-title: "AWS Cloud Practitioner Prep"
+title: "Comptia Security+ Prep"
 categories: knowledge
-permalink: /blogs/aws-prep
+permalink: /blogs/comptia-sec-prep
 toc: true
 toc_label: "Table of Contents"
 toc_icon: stream # tasks #"torii-gate"

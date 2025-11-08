@@ -1,5 +1,5 @@
 ---
-title: "Cysa+ Prep"
+title: "Comptia Cysa+ Prep"
 categories: knowledge
 permalink: /blogs/cysa-prep
 toc: true
