@@ -12,6 +12,14 @@ author_profile: false
 
 > This is a resource on AWS Cloud Practitioner certification.
 
+<td>
+    <a href="https://www.credly.com/badges/9262eabb-7ebe-42bd-aa27-2cfcda52188b">
+        <img src="/assets/c/aws-certified-cloud-practitioner-600-600.png" alt="AWS Cloud Practitioner" width="400"/>
+    </a>
+    <figcaption><a href="https://www.credly.com/badges/9262eabb-7ebe-42bd-aa27-2cfcda52188b">AWS Cloud Practitioner</a></figcaption>
+    <p style="text-align: justify;">Update:31/12/2024: I passed the AWS Cloud Practitioner exam.</p>
+
+
 AWS Training 26/9/2024
 
 # 📁 Module 1: IAM
