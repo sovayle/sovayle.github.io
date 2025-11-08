@@ -20,10 +20,9 @@ author_profile: false
     <p style="text-align: justify;">Update: I passed the AWS Cloud Practitioner exam on 31/12/2024.</p>
 <td>
 
-AWS Training 26/9/2024
+- AWS Training 26/9/2024
 
-
-# 📁 Module 1: IAM
+# 📁Module 1: IAM
 
 - Cloud Terms/ Jargons
 - Management Console
