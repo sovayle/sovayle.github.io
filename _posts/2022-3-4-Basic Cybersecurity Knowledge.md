@@ -8,7 +8,7 @@ toc_icon: stream # tasks #"torii-gate"
 toc_sticky: true
 ---
 
-# Need to understand..
+# Need to understand.
 
 # CIA Triad: 
 > Confidentiality Integrity Availability
