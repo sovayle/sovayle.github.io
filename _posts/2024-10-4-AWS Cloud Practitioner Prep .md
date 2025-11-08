@@ -12,13 +12,11 @@ author_profile: false
 
 > This is a resource on AWS Cloud Practitioner certification.
 
-<td>
-    <a href="https://www.credly.com/badges/9262eabb-7ebe-42bd-aa27-2cfcda52188b">
-        <img src="/assets/c/aws-certified-cloud-practitioner-600-600.png" alt="AWS Cloud Practitioner" width="400"/>
-    </a>
-    <figcaption><a href="https://www.credly.com/badges/9262eabb-7ebe-42bd-aa27-2cfcda52188b">AWS Cloud Practitioner</a></figcaption>
-    <p style="text-align: justify;">Update: I passed the AWS Cloud Practitioner exam on 31/12/2024.</p>
-<td>
+<a href="https://www.credly.com/badges/9262eabb-7ebe-42bd-aa27-2cfcda52188b">
+    <img src="/assets/c/aws-certified-cloud-practitioner-600-600.png" alt="AWS Cloud Practitioner" width="400"/>
+</a>
+<figcaption><a href="https://www.credly.com/badges/9262eabb-7ebe-42bd-aa27-2cfcda52188b">AWS Cloud Practitioner</a></figcaption>
+<p style="text-align: justify;">Update: I passed the AWS Cloud Practitioner exam on 31/12/2024.</p>
 
 - AWS Training 26/9/2024
 
@@ -318,3 +316,7 @@ S3, simple storage system
 
 # Module7: Course summary
 Hope to ace the exam.
+
+# Conclusion
+
+- The exam tested many AWS terms. It's best to know the exact differences between similar terms. Not knowing the difference between 2 terms could reduce the success rate of passing this exam drastically.
