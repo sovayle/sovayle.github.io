@@ -27,11 +27,11 @@ Hope to ace the exam.
 
 Update: On 4/10/2025 I Passed the CySA exam.
 
-    <td>
-      <a href="https://www.credly.com/badges/532dea33-2ca9-42dd-86d7-354182de0f1a">
-        <img src="/assets/c/comptia-cysa-600-600.png" alt="Comptia Cybersecurity Analyst+ (CYSA)" width="400"/>
-      </a>
-      <figcaption><a href="https://www.credly.com/badges/532dea33-2ca9-42dd-86d7-354182de0f1a">Comptia Cybersecurity Analyst+ (CYSA)</a></figcaption>
-      <p style="text-align: justify;">I passed the Comptia Cybersecurity Analyst+ (CYSA) exam.</p>
-    </td>
-    <td>4/10/2025</td>
+<td>
+    <a href="https://www.credly.com/badges/532dea33-2ca9-42dd-86d7-354182de0f1a">
+      <img src="/assets/c/comptia-cysa-600-600.png" alt="Comptia Cybersecurity Analyst+ (CYSA)" width="400"/>
+    </a>
+    <figcaption><a href="https://www.credly.com/badges/532dea33-2ca9-42dd-86d7-354182de0f1a">Comptia Cybersecurity Analyst+ (CYSA)</a></figcaption>
+    <p style="text-align: justify;">I passed the Comptia Cybersecurity Analyst+ (CYSA) exam.</p>
+</td>
+<td>4/10/2025</td>
