@@ -7,7 +7,7 @@ classes: wide
 author_profile: TRUE
 ---
 
-Hi I am Azim, the local tech guy for friends and family. I am currently interning at Vigilant Asia as a SOC Analyst. Whenever I have spare time, I improve my knowledge on cybersecurity by reading blogs and news on the latest cyber threats. 
+Hi I am Azim, the local tech guy for friends and family. I am currently working at Vigilant Asia as a Security Analyst. Whenever I have spare time, I improve my knowledge on cybersecurity by reading blogs and news on the latest cyber threats. 
 
 Previously, I focused on hands-on learning of offensive and defensive security on TryHackMe and competing in CTF competitions. 
 

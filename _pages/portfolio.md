@@ -24,6 +24,35 @@ toc_sticky: true
 
 # Certifications and achievements.
 
+### 📌 LRSA
+<table>
+  <tr>
+    <td>
+      <a href="/assets/c/Azim_LRSA.png">
+        <img src="/assets/c/Azim_LRSA.png" alt="petronas" width="400"/>
+      </a>
+      <figcaption><a href="/assets/c/Azim_LRSA.png">LRSA</a></figcaption>
+      <p style="text-align: justify;">I passed the LRSA Exam.</p>
+    </td>
+    <td>21/3/2025</td>
+  </tr>
+</table>
+
+## 📌 AWS
+### AWS Cloud Practitioner
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/earner/earned/share/9262eabb-7ebe-42bd-aa27-2cfcda52188b">
+        <img src="/assets/c/aws-certified-cloud-practitioner" alt="AWS Cloud Practitioner" width="400"/>
+      </a>
+      <figcaption><a href="https://www.credly.com/earner/earned/share/9262eabb-7ebe-42bd-aa27-2cfcda52188b">AWS Cloud Practitioner</a></figcaption>
+      <p style="text-align: justify;">I passed AWS Cloud Practitioner.</p>
+    </td>
+    <td>31/12/2024</td>
+  </tr>
+</table>
+
 ## 📌 Rocheston Certified Cybersecurity Engineer
 ### Level 2
 <table>

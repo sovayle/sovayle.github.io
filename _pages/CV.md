@@ -9,16 +9,16 @@ author_profile: TRUE
 
 > ## PDF 
 
-<embed src="https://sovayle.github.io/assets/resume/Amirul_Azim_Resume_July.pdf"/>
+<embed src="https://sovayle.github.io/assets/resume/Amirul_Azim_Resume_Nov_2025.pdf"/>
 
 > ## PNG
 
-![resumeP1](/assets/resume/Freshie_4.1_July.png)
-![resumeP2](/assets/resume/Freshie_4.2_July.png)
+![resumeP1](/assets/resume/azim2ndjob_6.1_Nov.png)
+![resumeP2](/assets/resume/azim2ndjob_6.2_Nov.png)
 
 > ## Download PDF here
 
-[https://drive.google.com/file/d/1ebhbFDZnZqg4ceCmZNYa4TzmZ5LSnHMj/view?usp=sharing](https://drive.google.com/file/d/1ebhbFDZnZqg4ceCmZNYa4TzmZ5LSnHMj/view?usp=sharing)
+[https://drive.google.com/file/d/1-HtFPpAASZoWwiRX_310yahiwkaOn5kb/view?usp=sharing](https://drive.google.com/file/d/1-HtFPpAASZoWwiRX_310yahiwkaOn5kb/view?usp=sharing)
 
 
 
