@@ -24,12 +24,56 @@ toc_sticky: true
 
 # Certifications and achievements.
 
-### 📌 LRSA
+## 📌 Comptia
+### Comptia Security Analytics Professional – CSAP Stackable Certification
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/86c77a9e-4704-48f1-b7c8-c4d8add07d96">
+        <img src="/assets/c/comptia-security-csap-600-600.png" alt="Comptia CSAP" width="400"/>
+      </a>
+      <figcaption><a href="https://www.credly.com/badges/86c77a9e-4704-48f1-b7c8-c4d8add07d96">Comptia CSAP</a></figcaption>
+      <p style="text-align: justify;">I earned the CSAP Stackable Certification for passing both Comptia Security+ and CySA+.</p>
+    </td>
+    <td>23/10/2025</td>
+  </tr>
+</table>
+
+### Comptia Cybersecurity Analyst (CySA+)
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/532dea33-2ca9-42dd-86d7-354182de0f1a">
+        <img src="/assets/c/comptia-cysa-600-600.png" alt="Comptia Cybersecurity Analyst+ (CYSA)" width="400"/>
+      </a>
+      <figcaption><a href="https://www.credly.com/badges/532dea33-2ca9-42dd-86d7-354182de0f1a">Comptia Cybersecurity Analyst+ (CYSA)</a></figcaption>
+      <p style="text-align: justify;">I passed the Comptia Cybersecurity Analyst+ (CYSA) exam.</p>
+    </td>
+    <td>4/10/2025</td>
+  </tr>
+</table>
+
+### Comptia Security+
+<table>
+  <tr>
+    <td>
+      <a href="https://www.credly.com/badges/f9107954-f983-45af-b39a-1215532232e6">
+        <img src="/assets/c/comptia-security-sec-600-600.png" alt="Comptia Security+" width="400"/>
+      </a>
+      <figcaption><a href="https://www.credly.com/badges/f9107954-f983-45af-b39a-1215532232e6">Comptia Security+</a></figcaption>
+      <p style="text-align: justify;">I passed the Comptia Security+ exam.</p>
+    </td>
+    <td>23/10/2025</td>
+  </tr>
+</table>
+
+## 📌 LRSA
+### LogRhythm Security Analyst
 <table>
   <tr>
     <td>
       <a href="/assets/c/Azim_LRSA.png">
-        <img src="/assets/c/Azim_LRSA.png" alt="petronas" width="400"/>
+        <img src="/assets/c/Azim_LRSA.png" alt="LRSA" width="400"/>
       </a>
       <figcaption><a href="/assets/c/Azim_LRSA.png">LRSA</a></figcaption>
       <p style="text-align: justify;">I passed the LRSA Exam.</p>
@@ -43,11 +87,11 @@ toc_sticky: true
 <table>
   <tr>
     <td>
-      <a href="https://www.credly.com/earner/earned/share/9262eabb-7ebe-42bd-aa27-2cfcda52188b">
-        <img src="/assets/c/aws-certified-cloud-practitioner" alt="AWS Cloud Practitioner" width="400"/>
+      <a href="https://www.credly.com/badges/9262eabb-7ebe-42bd-aa27-2cfcda52188b">
+        <img src="/assets/c/aws-certified-cloud-practitioner-600-600.png" alt="AWS Cloud Practitioner" width="400"/>
       </a>
-      <figcaption><a href="https://www.credly.com/earner/earned/share/9262eabb-7ebe-42bd-aa27-2cfcda52188b">AWS Cloud Practitioner</a></figcaption>
-      <p style="text-align: justify;">I passed AWS Cloud Practitioner.</p>
+      <figcaption><a href="https://www.credly.com/badges/9262eabb-7ebe-42bd-aa27-2cfcda52188b">AWS Cloud Practitioner</a></figcaption>
+      <p style="text-align: justify;">I passed the AWS Cloud Practitioner exam.</p>
     </td>
     <td>31/12/2024</td>
   </tr>
