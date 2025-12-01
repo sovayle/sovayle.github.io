@@ -92,7 +92,7 @@ flag: FLAG{RESOURCES-ARE-POPULAR-FOR-MALWARE}
 Flag: flag{not_that_kind_of_elf}
 
 
-#### Task2:  e
+#### Task2:
 
 What is the super secret password ?
 
