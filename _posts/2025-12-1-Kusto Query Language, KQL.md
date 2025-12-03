@@ -10,7 +10,7 @@ toc_sticky: true
 author_profile: false
 ---
 
-> This is a resource on Kusto Query Language, KQL. It is language generally used for Microsoft products such as Microsoft security tools, Microsoft Azure and many more. Microsoft Sentinel SIEM uses KQL for example in SOC environments. 
+> This is a resource on Kusto Query Language, KQL. It is language generally used for Microsoft cloud products for System performance, user activity, device health, compliance and security. Microsoft security tools such as Microsoft Defender suite of security tools, Microsoft Azure Active Directory, Microsoft Defender suite and many more. KQL is WORM language, write once read many. Microsoft Sentinel SIEM uses KQL for example in SOC environments. 
 
 Almost all modern SOC tools use a query language.
 
@@ -100,6 +100,66 @@ cluster('help').database('SecurityLogs').OutboundBrowsing
 cluster('help').database('SecurityLogs').InboundBrowsing
 | where user_agent has "iphone"
 
+Ep6. 
+
+cluster('help').database('SecurityLogs').ProcessEvents
+| where process_name == 'excel.exe'
+| sort by hostname asc
+
+cluster('help').database('SecurityLogs').ProcessEvents
+| where process_name == 'excel.exe'
+| sort by hostname desc
+
+cluster('help').database('SecurityLogs').ProcessEvents
+| where process_name == 'excel.exe'
+| sort by timestamp desc 
+
+cluster('help').database('SecurityLogs').ProcessEvents
+| where process_name == 'excel.exe'
+| sort by parent_process_name asc, process_hash asc 
+
+cluster('help').database('SecurityLogs').ProcessEvents
+| where process_name == 'excel.exe'
+| order by parent_process_name asc, process_hash asc 
+| distinct parent_process_name, process_hash
+
+cluster('help').database('SecurityLogs').Employees
+| where role == 'IT associate'
+| sort by name asc 
+
+cluster('help').database('SecurityLogs').Employees
+| where role == 'IT associate'
+| count 
+
+cluster('help').database('Samples').nyc_taxi
+| count 
+
+cluster('help').database('Samples').nyc_taxi
+| take 10
+
+cluster('help').database('Samples').nyc_taxi
+| where tip_amount == "0"
+| count
+
+cluster('help').database('ContosoSales').SalesTable
+| take 10
+
+cluster('help').database('ContosoSales').SalesTable
+| distinct Country, State
+| sort by Country asc, State asc 
+| count 
+
+cluster('help').database('ContosoSales').SalesTable
+| distinct Country//, State
+//| sort by Country asc, State asc 
+| count 
+
+cluster('help').database('SecurityLogs').Employees
+| take 10
+
+cluster('help').database('SecurityLogs').Employees
+| sort by role asc, name asc 
+//| project name, role
 
 ## Conclusion
 
