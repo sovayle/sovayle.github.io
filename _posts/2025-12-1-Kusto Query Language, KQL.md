@@ -40,7 +40,7 @@ I watched this entire YouTube playlist by to learn KQL.
 
 [https://www.youtube.com/watch?v=4VezNFqMnpg&list=PLuIShsT8L3sCjndVr4iwT4Uyh6aquB3q2&index=1](https://www.youtube.com/watch?v=4VezNFqMnpg&list=PLuIShsT8L3sCjndVr4iwT4Uyh6aquB3q2&index=1)
 
-## Notes (unorganized)<br>
+## Queries Practice (unorganized)<br>
 Ep3. <br>
 WHERE<br>
 TAKE<br>
@@ -222,6 +222,162 @@ VMConnection<br>
 Usage<br>
 | where Quantity >= 10<br>
 | project Quantity, Units=QuantityUnit, DataType
+
+Ep8.<br>
+Limit<br>
+Top<br>
+Boolean (and , or)
+
+| where FirtName == "Peter"<br>
+  and Education == "High School"<br>
+  and CityName == "Lieusaint"<br>
+| project FirstName, Lastname
+
+VMConnection <br>
+| where ProcessName == "python3"<br>
+	or SourceIP == "127.0.0.1"
+
+WindowsFirewall<br>
+| where (destinationPort == '80' and Protocol == 'TCP') or DestinationIP startswith '20'<br>
+project DestinationPort, Protocol, DestinationIP
+
+'*' = used for probing
+
+VMConnection<br>
+| where * has '389'
+
+limit = same like take
+
+VMConnection<br>
+| where * has '389'<br>
+| order by SourceIP asc<br>
+| limit 10
+
+top 10 = first 10
+
+take = random records
+
+VMConnection<br>
+| where * has '389'<br>
+| top 10 by TimeGenerated desc
+
+SigninLogs<br>
+| top 10 by TimeGenerated desc<br>
+//| take 10
+
+VMConnection<br>
+| where RemoteLatitude >= 60 or ResponseTimeMax > 1000<br>
+| project RemoteLatitude, ResponseTimeMax
+
+WindowsFirewall<br>
+| where Destinationport == '80' and Protocol == 'TCP'<br>
+| count
+
+Ep9.
+
+Time
+
+SigninLogs<br>
+| where TimeGenerated >= ago(10d)<br>
+// means 10 days ago, greater than, which is newer than 10 days ago
+
+d = Day, h = Hour m= Minute s=Second
+
+SigninLogs<br>
+| where TimeGenerated < ago(4h)<br>
+// means 4 hours ago, less than, which is older than 4 hours ago
+
+SigninLogs<br>
+| where TimeGenerated betweeen (datetime(2023-7-5T02:00:00) .. datetime(2023-7-6T04:00:00))<br>
+| sort by TimeGenerated desc
+
+SigninLogs<br>
+| where TimeGenerated betweeen (datetime(2023-7-3) .. now())<br>
+| sort by TimeGenerated desc
+
+SigninLogs<br>
+| where TimeGenerated betweeen (datetime(2023-7-3) .. (now() -4h))<br>
+| sort by TimeGenerated desc
+
+VMProcess<br>
+| take 10
+
+VMConnection<br>
+| take 10
+
+VMConnection<br>
+| where TimeGenerated >= ago(7d)<br>
+ and DestinationPort == '80' <br>
+ and Computer == 'AppArcWin'<br>
+| distinct ProcessName
+
+Homework:
+
+Perf<br>
+//|take 10<br>
+| where TimeGenerated >= ago(3d)<br>
+ and CounterName contains "Bytes sent" <br>
+ and CounterValue > 10000 <br>
+| sort by CounterValue desc<br>
+| project TimeGenerated, CounterName, CounterValue
+
+Ep 10.
+
+getschema , extend, search
+
+search in (ContainerLog,)
+
+SigninLogs<br>
+| search "Azure Portal"
+
+SigninLogs<br>
+| where * has "Azure Portal"
+
+SigninLogs<br>
+| search "*Azure Portal"
+
+SigninLogs
+| search "*Azure Portal*"
+
+SigninLogs<br>
+| search Location: "FR" or AppDisplayName: "Azure"
+
+search "40.78.229.33"<br>
+//can see new field, $table
+
+search "40.78.229.33"<br>
+| distinct $table
+
+search "40.78.229.33"<br>
+| where DestPublicIPs_s contains "40.78.229.33"<br>
+| project TimeGenerated, DestPublicIPs_s<br>
+//| distinct $table
+
+search "YouTube"<br>
+| where TimeGenerated > datetime(2023-07-15)<br>
+| sort by TimeGenerated desc
+
+search in (ContainerLog, AVSSyslog) "google"
+
+Usage<br>
+| take 10
+
+extend = add a new field
+
+Usage<br>
+| extend GB=Quantity/1000<br>
+| sort by GB desc
+
+getschema = see DataType
+
+ContainerInventory<br>
+| getschema
+
+Homework:
+
+search "185.125.190.23"<br>
+| where TimeGenerated >= ago(3d)<br>
+| distinct $table
 
 ## Conclusion
 
