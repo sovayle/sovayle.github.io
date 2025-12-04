@@ -379,6 +379,48 @@ search "185.125.190.23"<br>
 | where TimeGenerated >= ago(3d)<br>
 | distinct $table
 
+Ep11.
+
+Common errors
+
+Update<br>
+| where Product =~ 'Grub-pc' or Product == 'liblxc1'
+
+same as 
+
+Update<br>
+| where Product in~('Grub-pc', 'liblxc1')
+
+
+homework
+
+Error:
+
+ContainerLog<br>
+Where Timegenerated ago(7d)<br>
+| where LogEntry in (Done, received all)<br>
+| project TimeGenerated, type, LogEntry,
+
+Corrected:
+
+ContainerLog<br>
+| where TimeGenerated >= ago(7d)<br>
+ and LogEntry in ('Done', 'received call')<br>
+| project TimeGenerated, Type, LogEntry
+
+Ep 12.
+
+Debugging practices.
+
+Ep 13.
+
+Quizzes
+
+Ep 14. (last episode)
+
+Quizzes
+
+
 ## Conclusion
 
 - Overall learning KQL is similar to SQL. It is easy and straightforward to learn. 
